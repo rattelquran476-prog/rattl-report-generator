@@ -496,6 +496,6 @@ The following questions remain to be resolved before final implementation:
 ---
 
 **Document Version**: 1.0  
-**Last Updated**: 2024  
+**Last Updated**: 21 July 2026  
 **Owner**: Rattel Operations & Product  
 **Status**: Draft (awaiting approval)
